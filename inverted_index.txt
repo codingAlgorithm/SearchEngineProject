@@ -1,0 +1,2318 @@
+{
+    "roi": [
+        "http://www.wikipedia.org/wiki/Main_Page:3"
+    ], 
+    "all": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "wikipedias": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "anglican": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "nynorsk": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "resources": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "rod": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "sunk": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "/": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "coccinea": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "(130.68\u00a0m)": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "herzlich": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "montanan": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "creative": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "saved": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "causes": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "terms": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "fran\u00e7ais": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "20160913012131": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "tehuantepec": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "\u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "languages": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "to": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "under": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "maryland": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "sent": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "pevsner": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "woman": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "llewellyn": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "song": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "last": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "every": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "namespaces": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "rogun": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "non-profit": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "(1973\u20132001)": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "norfolk": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "did": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "announcements,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "list": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "commons": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "random": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "item": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "subway": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "guardsmen": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "force": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "deutsch": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "fermier": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "seas.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "jump": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "consists": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "download": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "sailed": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "6,649": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "panda": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "hymn": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "cargo": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "what": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "abc": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "richard": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "(900\u00a0km)": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "contributions": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "panama": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "selected": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "shares": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "current": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "(western": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "version": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "issues": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "new": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "body": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "ship's": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "led": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "reasons,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "men": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "here": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "hell?\"": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "(artist's": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "search": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "1848": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "naval": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "disclaimers": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "technical": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "employees": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "vietnamese": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "calvin": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "through": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "trial": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "historical": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "romanian": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "paralympics": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "navigation": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "montreal": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "(simple": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "norsk": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "via": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "love": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "iliff": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "foundation,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "wikipedia,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "courtier": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "italiano": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "tower.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "1918,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "armed": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "use": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "from": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "capsized": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "army": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "contains": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "two": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "france": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "live": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "asteroid": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "call": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "suomi": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "taken": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "australian": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "production?": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "organization.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "paralympic": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "more": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "started": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "company": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "demoted": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "about": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "it": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "nguyen": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "updates,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "expeditionary": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "articles...": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "2000?": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "bokm\u00e5l": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "sylvia": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "church": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "account": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "animals": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "rio": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "this": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "science": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "modified": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "t\u00fcrk\u00e7e": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "can": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "v": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "following": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "making": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "1,000,000": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "wikispecies": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "history": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "lords": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "portals": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "links": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "prompting": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "wikipedia\u00ae": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "states": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "battered": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "david": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "species": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "biography": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "returned": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "information": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "united": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "syndrome": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "1083,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "travel": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "american": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "id": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "line.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "sacred": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "735912075": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "lam": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "may": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "manuals": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "after": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "collection": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "a": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "bennu": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "attempt": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "susan": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "ss": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "register": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "fictional": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "catal\u00e0": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "wikipedia's": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "chief": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "so": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "allow": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "volunteers": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "banksia": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "order": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "michel": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "serving": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "help": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "producer": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "verlangen": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "september": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "(pictured)": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "areas": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "below.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "years": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "brain": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "embassy": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "including": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "its": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "before": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "le": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "23": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "personal": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "50,000": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "actually": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "permanent": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "phineas": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "policy": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "main": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "exile,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "then": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "return": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "calvinism": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "janeiro": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "dam": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "genus,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "giraffe": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "\u010de\u0161tina": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "them.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "trade": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "now": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "day": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "1914.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "articles": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "edit": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "form)": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "feast": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "alexis": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "form,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "\u0e44\u0e17\u0e22": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "ship,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "crossing": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "apply.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "lantern": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "heavy": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "wikiversity": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "250,000": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "related": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "upload": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "society": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "meta-wiki": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "hosted": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "et": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "81": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "86": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "esperanto": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "special": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "galego": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "ultimately": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "opened": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "available;": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "since": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "research": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "content": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "daniel": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "ioan": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "shows": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "foundation": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "dictionary": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "written": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "siege": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "retrieved": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "free": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "base": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "cookie": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "ti\u1ebfng": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "u-90": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "ask": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "shot": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "software": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "1437": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "interaction": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    ";\nadditional": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "service": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "recast": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "wiktionary": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "keep": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "rom\u00e2n\u0103": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "length": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "aboard": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "today's": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "\u0627\u0644\u0639\u0631\u0628\u064a\u0629": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "boccia": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "south": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "first": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "attribution-sharealike": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "henry": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "khanh": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "one": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "featured": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "another": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "navigator": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "drove": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "open": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "\"": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "full\u00a0article...": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "privacy": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "unknown": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "\"greatest": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "anyone": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "their": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "clendinnen": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "listed": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "saint": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "john": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "cite": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "store": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "ceiling": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "collapse": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "geneva": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "that": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "articles:": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "moscow": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "2012,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "1912": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "articles.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "than": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "to:": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "tajikistan's": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "13": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "12": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "critically": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "14": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "19": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "nominate": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "anniversaries": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "\u2013": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "project": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "r": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "iron": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "were": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "head,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "and": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "indonesia": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "service,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "huntingdon": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "discussions": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "wikidata": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "manitoba": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "any": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "vulnerable": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "sloven\u010dina": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "built": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "fashionable": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "1964": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "endangered": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "contact": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "which": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "encyclopedia": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "text": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "soap": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "428\u00a0ft": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "gill": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "foreman": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "begin": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "multiple": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "norman": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "though": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "printable": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "english": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "talk": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "defence": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "eight": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "services": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "policies.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "achievement": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "known": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "quotations": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "melayu": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "mobile": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "projects,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "librarians,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "srpskohrvatski": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "wounded": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "killed,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "featured:": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "came": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "impression": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "vi\u1ec7t": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "currently": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "convoy": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "coup": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "german": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "photograph:": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "probe": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "one,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "christianity)": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "mediawiki": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "\u65e5\u672c\u8a9e": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "range": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "melody": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "\ud55c\uad6d\uc5b4": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "fifth": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "geography": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "access": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "giant": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "brazil.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "knowledge": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "1541": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "justice": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "(": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "centralnotice": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "cache": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "espa\u00f1ol": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "pump": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "verdon-sur-mer": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "\u0441\u0440\u043f\u0441\u043a\u043e\u0445\u0440\u0432\u0430\u0442\u0441\u043a\u0438": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "arquette": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "employed": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "circle": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "local": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "pictures...": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "personality": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "steel": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "sloven\u0161\u010dina": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "wide": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "de": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "coast": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "2016,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "dansk": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "during": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "13,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "him": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "alexander": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "village": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "donate": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "covering": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "textbooks": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "reload": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "miles": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "contain": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "scott": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "performance-related": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "view": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "wiki": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "(34\u00a0mi)": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "reference": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "roof-space.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "svenska": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "seat": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "j.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "individual": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "college": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "are": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "operated": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "explosion": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "activities": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "nikolaus": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "hrvatski": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "1917.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "library": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "reform": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "nuclear": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "date:": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "wikipedia": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "inga": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "coordination": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "gage": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "9\u00a0in": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "chrysostom": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "reading": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "email": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "date.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "available": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "korea": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "recently": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "august": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "tut": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "killing": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "awards": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "key": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "article": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "isthmus": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "received": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "improved": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "license": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "lifeboat": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "many": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "menu": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "cathedral": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "april": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "site,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "became": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "games": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "horseriding,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "pdf": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "among": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "simple": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "character": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "tons\u00a0(grt)": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "community": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "https://en.wikipedia.org/w/index.php?title=main_page&oldid=735912075": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "learning": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "news": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "arts": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "described": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "american-hawaiian": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "west": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "create": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "duc": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "trademark": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "three": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "submarine": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "genetic": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "change": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "interest": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "entered": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "500": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "2001": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "life": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "eastern": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "lantern,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "reclassifies": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "generals": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "5,238,117": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "duong": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "extant": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "2006": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "case": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "2016": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "\u0641\u0627\u0631\u0633\u06cc": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "launches": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "as": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "iucn": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "ongoing": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "eastbound": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "guide": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "print/export": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "century": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "is": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "site": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "player": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "releases": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "\u05e2\u05d1\u05e8\u05d9\u05ea": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "in": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "stover": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "technology": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "dawson": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "euskara": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "contents": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "cambridgeshire": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    ")": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "media": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "granted": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "views": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "magyar": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "archive": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "bahasa": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "portugu\u00eas": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "largest": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "escort.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "several": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "events": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "octagon,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "development": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "used": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "suffragan": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "rail": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "octagon": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "portal": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "7\u00a0in": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "\"?": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "tune": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "recent": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "center": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "i": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "changes": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "phat": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "analysis": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "thought": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "materials": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "eesti": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "english.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "sets": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "organization": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "the": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "prevention": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "summer": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "\u0441\u0440\u043f\u0441\u043a\u0438": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "1780": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "desk": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "press": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "questions": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "using": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "foundation.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "junta": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "injuries": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "death": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "also": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "free-content": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "royal": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "source": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "ely": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "lietuvi\u0173": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "samples": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "wikimedia": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "has": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "versailles": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "...": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "know...": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "wikipedia.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "government": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "read": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "(16.33\u00a0m)": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "early": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "kalinderu": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "five": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "mathematics": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "judge": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "world": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "railroad": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "bosanski": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "projects": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "kimveer": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "conducts": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "lavallee": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "rediscovered": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "opera": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "hosts": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "served": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "jobs?": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "revision": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "wikibooks": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "page": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "101955": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "variants": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "drowned": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "people": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "four.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "some": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "\u4e2d\u6587": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "london?": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "timestamp": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "england.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "transport": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "54-kilometre": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "gross": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "for": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "osiris-rex": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "tools": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "legal": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "14th": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "octagonal": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "wikivoyage": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "artist's": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "board,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "leader": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "be": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "scientific": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "repository": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "sadie": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "wikipedia-related": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "enwiki:pcache:idhash:15580374-0!*!0!!*!4!*": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "architectural": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "by": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "wikiquote": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "usat": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "on": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "sister": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "central": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "carried": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "of": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "o": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "day...": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "statement": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "nederlands": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "lacked": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "book": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "racehorses": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "portuguese": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "previously": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "communication": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "into": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "doctrine": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "your": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "logged": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "canal": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "van": [
+        "http://www.wikipedia.org/wiki/your_Page"
+    ], 
+    "log": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "her": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "genius\",": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "latvie\u0161u": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "pages": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "start": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    ":": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "was": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "war": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "bert": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "head": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "buy": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "north": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "complete": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "great": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "registered": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "thesaurus": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "link": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "gore": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "mich": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "with": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "he": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "unsuccessful": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "utc": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "injury": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "ships,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "staged": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "polski": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "panels": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "agree": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "passenger": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "pictured)": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "anniversaries:": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "deaths": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "parser": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "an": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "france,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "abeam": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "france.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "ely's": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "at": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "file": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "nautical": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "ship": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "compete": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "areas.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "not": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "tangiers": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "when": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "virtual": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "53\u00a0ft": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "other": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "role": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "recognition": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "test": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "freighter": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "you": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "developers": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "actors,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "steamship": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "picture": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "wikinews": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "welcome": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "srpski": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "important": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "itself,": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "subjects.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "tackle": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "wikisource": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "torpedoed": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "began": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "bishop": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "rescued": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "required": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "bulletin": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "inc.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "gorilla": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "socrates": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "nasa": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "lafayette": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "wolek": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "directory": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "22:45.": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "\"the": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "inter-coastal": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ], 
+    "\u0440\u0443\u0441\u0441\u043a\u0438\u0439": [
+        "http://www.wikipedia.org/wiki/Main_Page"
+    ]
+}
